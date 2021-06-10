@@ -8,7 +8,7 @@ function preload(){
 roadImg = loadImage("Background.jpg")
 virusImg = loadImage("virus.png")
 vaccineImg = loadImage("Vaccine.jpg")
-man_Running = loadImage("Man Running.1.jpg","Man Running.2.jpg","Man Running.3.jpg")
+man_Running = loadImage("ManRunning.1.jpg","ManRunning.2.jpg","ManRunning.3.jpg")
 }
 
 function setup() {
